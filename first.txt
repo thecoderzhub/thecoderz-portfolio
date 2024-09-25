@@ -1,1 +1,3 @@
-Hey, this is the starting point of this codebase
+Hey, this is the starting point of this codebase.
+
+This is my first changes to the codebase.
